@@ -1,0 +1,1 @@
+ alert('¡Prepárate a conocer la auténtica comida japonesa!');
